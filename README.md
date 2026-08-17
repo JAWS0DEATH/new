@@ -5,6 +5,6 @@
 <img width="184" height="232" align="center" alt="pony-town-BEYOND _ C+H _  KonKisser ❤ -dance-sit-blinking-padded-ponyplush-4x" src="https://github.com/user-attachments/assets/c3cab9e7-3f98-4a0c-8c02-b4cdb46a941f" />
 ![](https://komarev.com/ghpvc/?JAWS0DEATH)
 [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
-<img src="https://komarev.com" alt="GitHub Profile Views" />
+<img src="https://komarev.com/ghpvc" alt="GitHub Profile Views" />
 ![Github profile view counter](https://komarev.com/ghpvc?username=JAWS0DEATH&color=red&style=plastic&label=BATS)"
 
