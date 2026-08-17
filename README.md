@@ -21,7 +21,9 @@
 <img width="1203" height="839" alt="IMG_8535" src="https://github.com/user-attachments/assets/09a98567-6f8b-4e2e-9e84-8fde9c78b937" />
 <img width="150" height="20" alt="IMG_8216" src="https://github.com/user-attachments/assets/51f2ce11-06e0-4c13-ad8b-b5e95b1aaaac" />
  <img width="66" height="18" alt="IMG_4937" align="center" src="https://github.com/user-attachments/assets/0e3807c0-cc6e-4848-997a-0a6a9ebd11c2" />
+ 
  ![Github profile view counter](https://komarev.com/ghpvc?username=JAWS0DEATH&color=red&style=plastic&label=BATS)
+ 
  <img width="150" height="20" align="center" alt="IMG_8214" src="https://github.com/user-attachments/assets/667858f9-cbfa-4eab-b25e-f00aac1e8eae" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
