@@ -6,5 +6,5 @@
 ![](https://komarev.com/ghpvc/?JAWS0DEATH)
 [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 <img src="https://komarev.com/ghpvc" alt="GitHub Profile Views" />
-![Github profile view counter](https://komarev.com/ghpvc?username=JAWS0DEATH&color=red&style=plastic&label=BATS)"
+<img src="https://komarev.com/ghpvc" alt= "![Github profile view counter](https://komarev.com/ghpvc?username=JAWS0DEATH&color=red&style=plastic&label=BATS)"/>
 
