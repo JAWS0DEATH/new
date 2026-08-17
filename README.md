@@ -7,3 +7,4 @@
 [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 <img src="https://komarev.com" alt="GitHub Profile Views" />
 ![profile views](https://komarev.com/ghpvc/?username=JAWS0DEATH&color=red&style=plastic&label=BATS)"
+![](https://komarev.com/ghpvc/?username=JAWS0DEATH&abbreviated=true)
