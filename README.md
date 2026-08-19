@@ -1,4 +1,5 @@
-<img width="1241" height="660" alt="Untitled275_20260816150601" src="https://github.com/user-attachments/assets/420ef83d-b7f9-4d12-9719-55788f4deb65" />
+<img width="1241" height="658" alt="Untitled281_20260816225248" src="https://github.com/user-attachments/assets/ad7e86de-b608-4ba0-8353-9c78de4041a6" />
+
 <img width="1941" height="159" alt="Untitled277_20260816191938" src="https://github.com/user-attachments/assets/fdfe8b1d-03a1-42b7-82fc-b8dc01688fbc" />
 <h6 align="center"> <a href=https://github.com/pt-hall-of-media> @𝖕𝖙-𝖍𝖆𝖑𝖑-𝖔𝖋-𝖒𝖊𝖉𝖎𝖆 </a> 𖤐 <a href=https://github.com/charactersofpt> @𝖈𝖍𝖆𝖗𝖈𝖙𝖊𝖗𝖘𝖔𝖋𝖕𝖙 </a> 𖤐 <a href=https://github.com/pt-contributers> @𝖕𝖙-𝖈𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖊𝖗𝖘</a></h6>
 
@@ -36,7 +37,8 @@
 <img width="1680" height="299" alt="download (3)" src="https://github.com/user-attachments/assets/d2c382a1-2614-4b53-ac3d-8cbf0444aaa8" />
 <img width="767" height="762" alt="image" src="https://github.com/user-attachments/assets/02905afc-203f-446f-95ff-5ebb99f5530d" />
 
-<img width="1680" height="338" alt="download (7)" src="https://github.com/user-attachments/assets/50916427-d0db-46a6-90cb-a7943bc43261" />
+<img width="1679" height="343" alt="download (8)" src="https://github.com/user-attachments/assets/9dab0cfc-f28a-476f-bb0a-5820e9f398ae" />
+
 
 
 
