@@ -1,10 +1,25 @@
-<img width="1241" height="658" alt="Untitled281_20260816225248" src="https://github.com/user-attachments/assets/ad7e86de-b608-4ba0-8353-9c78de4041a6" />
 
-<img width="1992" height="532" alt="Untitled252_20260816225810" src="https://github.com/user-attachments/assets/7eab5d12-a8e4-405c-9e90-8877e18d6a6e" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <img src="" width="1992">
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ad7e86de-b608-4ba0-8353-9c78de4041a6">
+  <img src="https://github.com/user-attachments/assets/ad7e86de-b608-4ba0-8353-9c78de4041a6" width="1992">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7eab5d12-a8e4-405c-9e90-8877e18d6a6e">
+  <img src="https://github.com/user-attachments/assets/7eab5d12-a8e4-405c-9e90-8877e18d6a6e" width="1992">
+</picture>
 <h6 align="center"> <a href=https://github.com/pt-hall-of-media> @𝖕𝖙-𝖍𝖆𝖑𝖑-𝖔𝖋-𝖒𝖊𝖉𝖎𝖆 </a> 𖤐 <a href=https://github.com/charactersofpt> @𝖈𝖍𝖆𝖗𝖈𝖙𝖊𝖗𝖘𝖔𝖋𝖕𝖙 </a> 𖤐 <a href=https://github.com/pt-contributers> @𝖕𝖙-𝖈𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖊𝖗𝖘</a></h6>
-
-<img width="184" height="232" align="center" alt="pony-town-BEYOND _ C+H _  KonKisser ❤ -dance-sit-blinking-padded-ponyplush-4x" src="https://github.com/user-attachments/assets/c3cab9e7-3f98-4a0c-8c02-b4cdb46a941f" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c3cab9e7-3f98-4a0c-8c02-b4cdb46a941f">
+  <img src="https://github.com/user-attachments/assets/c3cab9e7-3f98-4a0c-8c02-b4cdb46a941f" width="184" height="232" align="center">
+</picture>
+</p>
 <img width="1680" height="299" alt="download (3)" src="https://github.com/user-attachments/assets/d2c382a1-2614-4b53-ac3d-8cbf0444aaa8" />
 <img width="1241" height="957" alt="Untitled274_20260816175707" src="https://github.com/user-attachments/assets/416c5623-a93b-498e-9c59-b697168158c7" />
 <img width="1624" height="488" alt="download (12)" src="https://github.com/user-attachments/assets/d3dc0e53-f275-4389-96e4-caa4c37272a1" />
