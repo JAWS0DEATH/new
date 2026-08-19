@@ -1,23 +1,26 @@
 <img width="1241" height="658" alt="Untitled281_20260816225248" src="https://github.com/user-attachments/assets/ad7e86de-b608-4ba0-8353-9c78de4041a6" />
 
-<img width="1941" height="159" alt="Untitled277_20260816191938" src="https://github.com/user-attachments/assets/fdfe8b1d-03a1-42b7-82fc-b8dc01688fbc" />
+<img width="1992" height="532" alt="Untitled252_20260816225810" src="https://github.com/user-attachments/assets/7eab5d12-a8e4-405c-9e90-8877e18d6a6e" />
+
 <h6 align="center"> <a href=https://github.com/pt-hall-of-media> @𝖕𝖙-𝖍𝖆𝖑𝖑-𝖔𝖋-𝖒𝖊𝖉𝖎𝖆 </a> 𖤐 <a href=https://github.com/charactersofpt> @𝖈𝖍𝖆𝖗𝖈𝖙𝖊𝖗𝖘𝖔𝖋𝖕𝖙 </a> 𖤐 <a href=https://github.com/pt-contributers> @𝖕𝖙-𝖈𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖊𝖗𝖘</a></h6>
 
 <img width="184" height="232" align="center" alt="pony-town-BEYOND _ C+H _  KonKisser ❤ -dance-sit-blinking-padded-ponyplush-4x" src="https://github.com/user-attachments/assets/c3cab9e7-3f98-4a0c-8c02-b4cdb46a941f" />
 <img width="1680" height="299" alt="download (3)" src="https://github.com/user-attachments/assets/d2c382a1-2614-4b53-ac3d-8cbf0444aaa8" />
 <img width="1241" height="957" alt="Untitled274_20260816175707" src="https://github.com/user-attachments/assets/416c5623-a93b-498e-9c59-b697168158c7" />
-<img width="1241" height="957" alt="Untitled274_20260816180043" src="https://github.com/user-attachments/assets/9aff23b0-e343-4016-b4fd-4c0a7d44e9c6" />
-<img width="1679" height="326" alt="download (5)" src="https://github.com/user-attachments/assets/c19c228c-af7a-49df-8e79-24efb5e2f573" />
+<img width="1624" height="488" alt="download (12)" src="https://github.com/user-attachments/assets/d3dc0e53-f275-4389-96e4-caa4c37272a1" />
+
+<img width="1679" height="333" alt="download (9)" src="https://github.com/user-attachments/assets/992c96a8-8f57-4cc2-933d-c6dc613ce847" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/35a373f4-21d3-4681-bdfe-af0a7ae5d6d1">
   <img src="https://github.com/user-attachments/assets/35a373f4-21d3-4681-bdfe-af0a7ae5d6d1" width="50" height="50" align="center">
 </picture>
-<img width="1680" height="338" alt="download (4)" src="https://github.com/user-attachments/assets/a2706155-354b-45f1-84f8-7f82fefd08f5" />
+<img width="1679" height="333" alt="download (10)" src="https://github.com/user-attachments/assets/0a3d6f80-4210-4bd8-87fc-b6be0b40af2c" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/35a373f4-21d3-4681-bdfe-af0a7ae5d6d1">
   <img src="https://github.com/user-attachments/assets/35a373f4-21d3-4681-bdfe-af0a7ae5d6d1" width="50" height="50" align="center">
 </picture>
-<img width="1679" height="393" alt="download (6)" src="https://github.com/user-attachments/assets/1423039d-9f5d-443a-b7f4-07c392ef55b7" />
+<img width="1679" height="333" alt="download (11)" src="https://github.com/user-attachments/assets/6798af3e-6dd5-464d-bbf2-5feb1111266b" />
+
 
 <img width="1203" height="839" alt="IMG_8535" src="https://github.com/user-attachments/assets/09a98567-6f8b-4e2e-9e84-8fde9c78b937" />
 <img width="150" height="20" alt="IMG_8216" src="https://github.com/user-attachments/assets/51f2ce11-06e0-4c13-ad8b-b5e95b1aaaac" />
@@ -33,9 +36,10 @@
 </p>
 
 <img width="1680" height="299" alt="download (3)" src="https://github.com/user-attachments/assets/d2c382a1-2614-4b53-ac3d-8cbf0444aaa8" />
-<img width="1241" height="957" alt="Untitled274_20260816183734" src="https://github.com/user-attachments/assets/44284497-c6d6-4f96-872f-ade1ee34a984" />
+<img width="1241" height="957" alt="Untitled253_20260816230111" src="https://github.com/user-attachments/assets/eefe6fc2-8112-409a-a583-5bf80ffcfad7" />
+
 <img width="1680" height="299" alt="download (3)" src="https://github.com/user-attachments/assets/d2c382a1-2614-4b53-ac3d-8cbf0444aaa8" />
-<img width="767" height="762" alt="image" src="https://github.com/user-attachments/assets/02905afc-203f-446f-95ff-5ebb99f5530d" />
+<img width="1241" height="957" alt="Untitled274_20260816220006" src="https://github.com/user-attachments/assets/532d2ddb-1182-4aaa-ae19-01d5adf424e0" />
 
 <img width="1679" height="343" alt="download (8)" src="https://github.com/user-attachments/assets/9dab0cfc-f28a-476f-bb0a-5820e9f398ae" />
 
